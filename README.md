@@ -1,3 +1,9 @@
+# This is the frontend of the project decision_engine :https://github.com/amoloye/decision_engine
+
+
+#It uses one endpoint to calculate the loan available or suitable for user when user makes a loan request
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
